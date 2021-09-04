@@ -1,0 +1,16 @@
+git init in folder
+git add file
+git commint -m "mesaage"
+git status
+git remote add origin "link to the global repo created on github"
+git pull origin main
+git push origin main
+
+git add branch
+git checkout name_branch
+
+git merge name_branch(daca esti in branch ul curent)
+
+my_token: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
+
+39:55
